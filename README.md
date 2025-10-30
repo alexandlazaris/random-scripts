@@ -23,7 +23,9 @@ done
 
 Custom rules to further block specific app elements.
 
+```
 youtube.com###items > ytd-item-section-renderer.style-scope.ytd-watch-next-secondary-results-renderer:last-child
 youtube.com###sections
 youtube.com##[is-shorts]
 youtube.com###secondary
+```
